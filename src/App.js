@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import { Button, Checkbox, WhiteSpace, WingBlank } from 'antd-mobile';
 const CheckboxItem = Checkbox.CheckboxItem;
